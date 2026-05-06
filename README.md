@@ -26,7 +26,7 @@ El proyecto sigue una estructura de una sola capa, con toda la lógica de negoci
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/AdanHernandez2/inventory.git
+    git clone https://github.com/Luisamr07/LuisMendezInventario.git
     ```
 
 2. Abre el proyecto en Visual Studio.
